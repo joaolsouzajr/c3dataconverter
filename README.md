@@ -1,2 +1,2 @@
 # Easy Read Database
-Tools to fast and easy read data from any database
+Tools to fast and easy read data from database
