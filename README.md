@@ -1,0 +1,2 @@
+# easyreaddb
+Easy Read Database
