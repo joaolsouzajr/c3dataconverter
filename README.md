@@ -1,4 +1,4 @@
-# Easy Read Database
+# C3 Data Converter
 Tools to fast and easy read data from database
 
 ## Specification
